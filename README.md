@@ -6,6 +6,6 @@ Summarizing employee performance reviews can help both organizations and people 
 
 Using Large Language Models (LLMs) such as GPT-2, BERT (Bidirectional Encoder Representations from Transformers), BART (Bidirectional and Auto-Regressive Transformers) and others to summarize performance reviews can considerably speed up and improve the process. 
 
-Dataset used from Kaggle
+Dataset used from Kaggle: https://www.kaggle.com/datasets/fiodarryzhykau/employee-review/data 
 
 Performance Review samples are generated from ChatGPT
